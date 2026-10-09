@@ -1,0 +1,17 @@
+PASS task-only approval accepts an edited recipient
+PASS field insertion order does not change fingerprint
+PASS exact approved action is allowed
+PASS second use is denied
+PASS edited recipient is denied
+PASS edited body is denied
+PASS different actor is denied
+PASS different tenant is denied
+PASS different tool is denied
+PASS different task is denied
+PASS expiry boundary is denied
+PASS unknown grant is denied
+PASS invalid clock is denied
+PASS returned action is frozen and independent
+PASS undeclared bcc field is denied
+PASS non-string payload is denied
+16 checks passed; synthetic fixtures; no model or email call.
