@@ -4,7 +4,7 @@
 
 A tiny TypeScript teaching build inspired by Google's October 8, 2026 Gemini agent announcement. A task-only approval accepts an edited recipient. A payload-bound grant rejects it.
 
-Article: publication link will be added after DEV verification.
+Article: [Your Agent Got Approval. Then It Changed the Email.](https://dev.to/bobbyhalljr/your-agent-got-approval-then-it-changed-the-email-build-a-payload-bound-gate-in-typescript-oga)
 
 ## Run
 
